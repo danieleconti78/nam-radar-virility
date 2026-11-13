@@ -1,0 +1,485 @@
+{
+ "_nota": "Radar ads fitness uomo: Italia (coach online e studi personal) piu' riferimenti esteri US/EU. Set trovato il 13/11/2026 con scopri.py + valuta.py + ricerca manuale nella Ad Library. Da validare con Virility.",
+ "cliente": {
+  "brand": "Virility",
+  "nome_esteso": "Virility - Centro Personal",
+  "page_id": "109546341650788",
+  "page_id_alt": [],
+  "mercato": "IT",
+  "paesi": [
+   "IT"
+  ],
+  "dominio": "danieleconti78.github.io/nam-radar-virility",
+  "repo": "danieleconti78/nam-radar-virility",
+  "titolo": "Radar ads fitness uomo",
+  "soglia_inserzionista": 1
+ },
+ "competitors": [
+  {
+   "slug": "aldo-masolo",
+   "nome": "Aldo Masolo",
+   "page_id": "101878055159867",
+   "mercato": "IT",
+   "tier": "diretto",
+   "tipo": "coach online uomo",
+   "attivo": true,
+   "nota": "Primo per ads sulle parole del settore."
+  },
+  {
+   "slug": "adfm-coaching",
+   "nome": "ADFM Coaching",
+   "page_id": "432422679946346",
+   "mercato": "IT",
+   "tier": "diretto",
+   "tipo": "coach online uomo",
+   "attivo": true,
+   "nota": "Secondo per ads nella scoperta per parola."
+  },
+  {
+   "slug": "cb-coaching",
+   "nome": "Christian Boceda - CB Coaching",
+   "page_id": "227276883802774",
+   "mercato": "IT",
+   "tier": "diretto",
+   "tipo": "coach online uomo",
+   "attivo": true,
+   "nota": ""
+  },
+  {
+   "slug": "marco-spadaccino-coach",
+   "nome": "Marco Spadaccino - Fitness Coach",
+   "page_id": "621211644411639",
+   "mercato": "IT",
+   "tier": "diretto",
+   "tipo": "coach online uomo",
+   "attivo": true,
+   "nota": ""
+  },
+  {
+   "slug": "marco-spadaccino",
+   "nome": "Marco Spadaccino",
+   "page_id": "107800140898852",
+   "mercato": "IT",
+   "tier": "diretto",
+   "tipo": "coach online uomo",
+   "attivo": true,
+   "nota": "Seconda pagina dello stesso coach."
+  },
+  {
+   "slug": "uomo-in-forma",
+   "nome": "Uomo in Forma",
+   "page_id": "752414394611750",
+   "mercato": "IT",
+   "tier": "diretto",
+   "tipo": "coach online uomo",
+   "attivo": true,
+   "nota": ""
+  },
+  {
+   "slug": "metodo-anti-secco",
+   "nome": "Metodo Anti Secco",
+   "page_id": "1207386882452596",
+   "mercato": "IT",
+   "tier": "diretto",
+   "tipo": "coach online uomo",
+   "attivo": true,
+   "nota": ""
+  },
+  {
+   "slug": "leonardo-bonomo",
+   "nome": "Leonardo Bonomo Fitness Coach",
+   "page_id": "345375058968077",
+   "mercato": "IT",
+   "tier": "diretto",
+   "tipo": "coach online uomo",
+   "attivo": true,
+   "nota": ""
+  },
+  {
+   "slug": "gianluca-muzzupappa",
+   "nome": "Gianluca Muzzupappa Personal Trainer",
+   "page_id": "667471323113543",
+   "mercato": "IT",
+   "tier": "diretto",
+   "tipo": "coach online uomo",
+   "attivo": true,
+   "nota": "Parla a uomini 40+."
+  },
+  {
+   "slug": "antonio-truocchio",
+   "nome": "Antonio Truocchio coach",
+   "page_id": "169489107162198",
+   "mercato": "IT",
+   "tier": "diretto",
+   "tipo": "coach online uomo",
+   "attivo": true,
+   "nota": ""
+  },
+  {
+   "slug": "nicola-piras",
+   "nome": "Nicola Piras Coach",
+   "page_id": "233094949882605",
+   "mercato": "IT",
+   "tier": "diretto",
+   "tipo": "coach online uomo",
+   "attivo": true,
+   "nota": ""
+  },
+  {
+   "slug": "commando-consulting",
+   "nome": "Commando Consulting",
+   "page_id": "833472873185263",
+   "mercato": "IT",
+   "tier": "diretto",
+   "tipo": "coach online uomo",
+   "attivo": true,
+   "nota": ""
+  },
+  {
+   "slug": "gabri-fascendini",
+   "nome": "Gabri Fascendini - Metabolismo X10",
+   "page_id": "144057309517753",
+   "mercato": "IT",
+   "tier": "adiacente",
+   "tipo": "coach online",
+   "attivo": true,
+   "nota": ""
+  },
+  {
+   "slug": "danilo-luce",
+   "nome": "Danilo Luce Trainer",
+   "page_id": "342292518977471",
+   "mercato": "IT",
+   "tier": "diretto",
+   "tipo": "studio personal",
+   "attivo": true,
+   "nota": "Studio con personal e nutrizione."
+  },
+  {
+   "slug": "train-me-up",
+   "nome": "Train Me UP",
+   "page_id": "311722239752722",
+   "mercato": "IT",
+   "tier": "diretto",
+   "tipo": "studio personal",
+   "attivo": true,
+   "nota": ""
+  },
+  {
+   "slug": "personal-g",
+   "nome": "Personal G",
+   "page_id": "147983765953958",
+   "mercato": "IT",
+   "tier": "diretto",
+   "tipo": "studio personal",
+   "attivo": true,
+   "nota": ""
+  },
+  {
+   "slug": "andrea-ecchioni",
+   "nome": "Andrea Ecchioni Personal Trainer",
+   "page_id": "102610175957945",
+   "mercato": "IT",
+   "tier": "diretto",
+   "tipo": "studio personal",
+   "attivo": true,
+   "nota": ""
+  },
+  {
+   "slug": "your-personal-trainer",
+   "nome": "Your Personal Trainer",
+   "page_id": "108617304617270",
+   "mercato": "IT",
+   "tier": "adiacente",
+   "tipo": "studio personal",
+   "attivo": true,
+   "nota": ""
+  },
+  {
+   "slug": "nemis-nutrition",
+   "nome": "NEMIS Nutrition",
+   "page_id": "111339361714504",
+   "mercato": "IT",
+   "tier": "adiacente",
+   "tipo": "nutrizione",
+   "attivo": true,
+   "nota": ""
+  },
+  {
+   "slug": "fitness-per-negate",
+   "nome": "Fitness Per Negate",
+   "page_id": "1052237044630549",
+   "mercato": "IT",
+   "tier": "adiacente",
+   "tipo": "coach online",
+   "attivo": true,
+   "nota": ""
+  },
+  {
+   "slug": "muscle-booster",
+   "nome": "Muscle Booster",
+   "page_id": "106059717857087",
+   "mercato": "IT",
+   "tier": "adiacente",
+   "tipo": "app fitness",
+   "attivo": true,
+   "nota": ""
+  },
+  {
+   "slug": "uomo-moderno",
+   "nome": "Uomo Moderno",
+   "page_id": "111162291714728",
+   "mercato": "IT",
+   "tier": "riferimento",
+   "tipo": "benessere uomo 40+",
+   "attivo": true,
+   "nota": "Non e' fitness ma parla allo stesso uomo 40+ e spende molto."
+  },
+  {
+   "slug": "testorush",
+   "nome": "TestoRush",
+   "page_id": "904397316091745",
+   "mercato": "IT",
+   "tier": "riferimento",
+   "tipo": "integratori uomo",
+   "attivo": true,
+   "nota": "Riferimento per il futuro brand integratori."
+  },
+  {
+   "slug": "next-level-man",
+   "nome": "Next Level Man",
+   "page_id": "778580868677210",
+   "mercato": "US",
+   "tier": "riferimento",
+   "tipo": "coach online uomo",
+   "attivo": true,
+   "nota": "",
+   "paesi": [
+    "US"
+   ]
+  },
+  {
+   "slug": "stoic-physique",
+   "nome": "Stoic Physique",
+   "page_id": "236117660133635",
+   "mercato": "US",
+   "tier": "riferimento",
+   "tipo": "coach online uomo",
+   "attivo": true,
+   "nota": "",
+   "paesi": [
+    "US"
+   ]
+  },
+  {
+   "slug": "ryan-blake",
+   "nome": "Ryan Blake Coaching",
+   "page_id": "456195177574311",
+   "mercato": "US",
+   "tier": "riferimento",
+   "tipo": "coach online uomo",
+   "attivo": true,
+   "nota": "",
+   "paesi": [
+    "US"
+   ]
+  },
+  {
+   "slug": "nt-performance",
+   "nome": "NT Performance Coaching",
+   "page_id": "1200227693179366",
+   "mercato": "US",
+   "tier": "riferimento",
+   "tipo": "coach online uomo",
+   "attivo": true,
+   "nota": "",
+   "paesi": [
+    "US"
+   ]
+  },
+  {
+   "slug": "harry-knights",
+   "nome": "Harry Knights Coaching",
+   "page_id": "115791304935815",
+   "mercato": "US",
+   "tier": "riferimento",
+   "tipo": "coach online uomo",
+   "attivo": true,
+   "nota": "",
+   "paesi": [
+    "US"
+   ]
+  },
+  {
+   "slug": "fittrac",
+   "nome": "Fittrac Coaching",
+   "page_id": "578002699360444",
+   "mercato": "US",
+   "tier": "riferimento",
+   "tipo": "coach online uomo",
+   "attivo": true,
+   "nota": "",
+   "paesi": [
+    "US"
+   ]
+  },
+  {
+   "slug": "fit-executive",
+   "nome": "Fit Executive Co.",
+   "page_id": "215723821634369",
+   "mercato": "US",
+   "tier": "riferimento",
+   "tipo": "coach online uomo",
+   "attivo": true,
+   "nota": "Uomini manager impegnati: stesso target dell'online.",
+   "paesi": [
+    "US"
+   ]
+  },
+  {
+   "slug": "grant-anderson",
+   "nome": "Grant Anderson",
+   "page_id": "106953478207772",
+   "mercato": "US",
+   "tier": "riferimento",
+   "tipo": "coach online uomo",
+   "attivo": true,
+   "nota": "",
+   "paesi": [
+    "US"
+   ]
+  },
+  {
+   "slug": "chris-mouton",
+   "nome": "Chris Mouton",
+   "page_id": "1813488712008512",
+   "mercato": "US",
+   "tier": "riferimento",
+   "tipo": "coach online uomo",
+   "attivo": true,
+   "nota": "",
+   "paesi": [
+    "US"
+   ]
+  },
+  {
+   "slug": "manjinder-randhawa",
+   "nome": "Manjinder Randhawa",
+   "page_id": "470645656138001",
+   "mercato": "US",
+   "tier": "riferimento",
+   "tipo": "coach online uomo",
+   "attivo": true,
+   "nota": "",
+   "paesi": [
+    "US"
+   ]
+  },
+  {
+   "slug": "alloy-pt",
+   "nome": "Alloy Personal Training",
+   "page_id": "103780865171829",
+   "mercato": "US",
+   "tier": "riferimento",
+   "tipo": "studio personal",
+   "attivo": true,
+   "nota": "Franchising di studi personal: il modello dei centri Virility.",
+   "paesi": [
+    "US"
+   ]
+  },
+  {
+   "slug": "military-workouts",
+   "nome": "Military Workouts with Marcus",
+   "page_id": "1226480447209253",
+   "mercato": "EU",
+   "tier": "riferimento",
+   "tipo": "app fitness",
+   "attivo": true,
+   "nota": ""
+  },
+  {
+   "slug": "mimi-ruth",
+   "nome": "Mimi Ruth.",
+   "page_id": "102990815972286",
+   "mercato": "EU",
+   "tier": "riferimento",
+   "tipo": "coach online",
+   "attivo": true,
+   "nota": ""
+  }
+ ],
+ "temi": [
+  [
+   "Pancia e fianchi",
+   "\\b(pancia|pancett|fianch|addom|girovita|grasso addominal|maniglie|belly|love handles)"
+  ],
+  [
+   "Dimagrimento",
+   "\\b(dimagr|perdere peso|kg|chili|grasso|definizion|fat loss|lose weight|cutting)"
+  ],
+  [
+   "Massa e forza",
+   "\\b(massa|muscol|forza|ipertrofi|tonic|scolpit|muscle|strength)"
+  ],
+  [
+   "Over 40 ed eta'",
+   "\\b(40 anni|over ?40|50 anni|over ?50|eta|35 anni|dopo i \\d0|metabolismo rallent|after 40|over 40|dad)"
+  ],
+  [
+   "Energia, sonno, stress",
+   "\\b(energi|stanc|sonno|dormi|stress|cortisol|testosteron|libido|ormon)"
+  ],
+  [
+   "Lavoro e poco tempo",
+   "\\b(poco tempo|impegn|lavoro|manager|imprendit|busy|famiglia|figli|20 minuti|30 minuti)"
+  ],
+  [
+   "Effetto yo-yo e costanza",
+   "\\b(fisarmonica|yo.?yo|costanz|mollo|ricominc|riprend|ogni lunedi|consisten)"
+  ],
+  [
+   "Alimentazione e dieta",
+   "\\b(dieta|aliment|nutrizion|piano alimentare|mangiare|carboidrat|calorie|diet|nutrition)"
+  ],
+  [
+   "Studio privato e palestra",
+   "\\b(palestr|sala privat|centro personal|studio|low cost|affollat|macchinari|gym|private studio)"
+  ]
+ ],
+ "leve": [
+  [
+   "Nemico comune",
+   "\\b(cazzat|guru|metodi generici|ti hanno (venduto|propinato)|non e colpa tua|bugi|truff|myth|lie)"
+  ],
+  [
+   "Prima e dopo",
+   "\\b(prima e dopo|trasformazion|risultat|in \\d+ (giorni|settimane|mesi)|before|after|transformation)"
+  ],
+  [
+   "Testimonianza cliente",
+   "\\b(cliente|clienti|testimonian|recension|storia di|ha perso|case study|client)"
+  ],
+  [
+   "Autorita' e scienza",
+   "\\b(scien|studi|dott|biolog|nutrizionist|laure|evidenz|certific|science)"
+  ],
+  [
+   "Gratis e lead magnet",
+   "\\b(gratis|gratuit|omaggio|free|video|guida|ebook|test|quiz|check.?up)"
+  ],
+  [
+   "Garanzia",
+   "\\b(garanzi|rimbors|soddisfatti|senza vincol|guarantee|refund)"
+  ],
+  [
+   "Scarsita'",
+   "\\b(posti limitati|ultimi posti|solo \\d+|pochi posti|chiude|scade|limited|spots)"
+  ],
+  [
+   "Sconto e prezzo",
+   "(\\b(sconto|promo|offerta|prezzo|euro|black friday|discount)\\b|%|€|\\$)"
+  ]
+ ],
+ "escludi": []
+}
